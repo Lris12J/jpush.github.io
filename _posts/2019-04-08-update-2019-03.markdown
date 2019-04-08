@@ -22,9 +22,9 @@ categories:
 
   * JAnalytics flutter plugin 插件[首次发布](https://github.com/jpush/janalytics-flutter-plugin)，使用过程中遇到任何问题欢迎反馈。
 
-  * JMessage Android SDK 新增：“取消消息发送”和“取消消息附件下载”功能，[了解详情→](https://docs.jiguang.cn/jmessage/client/android_sdk/message/#_28)
+  * JMessage Android SDK 新增“取消消息发送”和“取消消息附件下载”功能，[了解详情→](https://docs.jiguang.cn/jmessage/client/android_sdk/message/#_28)
 
-# 详细列表
+## 详细列表
 
 ### 客户端 SDK
 
